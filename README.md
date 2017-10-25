@@ -6,7 +6,7 @@ A compatibility-based "FriendFinder" application. This full-stack application ta
 
 Demo
 
-Friend Finder is deployed to Heroku. Please check it out here - https://morning-refuge-80974.herokuapp.com/survey.
+Friend Finder is deployed to Heroku. Please check it out here -https://morning-refuge-80974.herokuapp.com/
 
 
 This project utilizes the following technologies:
