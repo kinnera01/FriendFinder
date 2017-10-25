@@ -14,11 +14,11 @@ var friends = [{
         1
       ]
   },{
-      name: 'Brad Pitt ',
+    name: 'Brad Pitt ',
 		photo: 'http://cdn1.clevver.com/wp-content/uploads/2014/01/world-without-vampires-interview-with-a-vampire-1.gif',
 		scores: [
-			'2',
-			'4',
+			2,
+			4,
 			'1',
 			'1',
 			'1',
