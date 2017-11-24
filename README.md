@@ -6,7 +6,7 @@ A compatibility-based "FriendFinder" application. This full-stack application ta
 
 ## Demo
 
-Friend Finder is deployed to Heroku. [https://kin-friend-finder.herokuapp.com/"FRIEND FINDER"]
+Friend Finder is deployed to Heroku. [https://kin-friend-finder.herokuapp.com/ "FRIENDFINDER"]
 
 # This project utilizes the following technologies:
 
